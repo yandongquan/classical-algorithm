@@ -17,10 +17,15 @@
 
 程序分析： 兔子的规律为数列 1,1,2,3,5,8,13,21....  这个数列从第三项开始，每一项都等于前两项之和。（斐波那契数列）
 
-代码：[FibonacciSequence.java]()
+代码：[FibonacciSequence.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/FibonacciSequence.java)
 
 ## 素数 ##
 
+题目：判断101-200之间有多少个素数，并输出所有素数。
+
+程序分析：判断素数的方法：用一个数分别去除2到sqrt(这个数)，如果能被整除，则表明此数不是素数，反之是素数。
+
+代码：[PrimeNumber.java]()
 
 ## 水仙花数 ##
 
