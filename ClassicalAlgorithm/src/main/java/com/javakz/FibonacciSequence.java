@@ -22,8 +22,7 @@ package com.javakz;
 public class FibonacciSequence {
 
     private static void achieve(int y) {
-        int i = 0;
-        for (i=1;i<=y;i++) {
+        for (int i=1;i<=y;i++) {
             System.out.print(f(i)+" ");
         }
     }
