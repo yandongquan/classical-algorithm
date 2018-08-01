@@ -27,7 +27,7 @@
 - 素数：整数在一个大于1的自然数中，除了1和此整数自身外，没法被其他自然数整除的数。
 - 判断素数的方法：用一个数除了1和此整数自身外或除以 sqrt(这个数)，如果能被整除，则表明此数不是素数，反之是素数。
 
-代码：[PrimeNumber.java]()
+代码：[PrimeNumber.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/PrimeNumber.java)
 
 ## 水仙花数 ##
 
