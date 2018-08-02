@@ -10,6 +10,10 @@
 - [水仙花数](#水仙花数)
 - [正整数分解质因数](#正整数分解质因数)
 - [最大公约数和最小公倍数](#最大公约数和最小公倍数)
+- [s=a+aa+aaa+aaaa+aa...a](#s=a+aa+aaa+aaaa+aa...a)
+- [完数](#完数)
+- [9*9口诀](#9*9口诀)
+- [猴子吃桃问题](#猴子吃桃问题)
 
 ## 斐波那契数列 ##
 
@@ -49,3 +53,12 @@
 代码：[PositiveIntegerDecompositionFactor.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/NarcissisticNumber.java)
 
 ## 最大公约数和最小公倍数 ##
+
+
+## s=a+aa+aaa+aaaa+aa...a ##
+
+## 完数 ##
+
+## 9*9口诀 ##
+
+## 猴子吃桃问题 ##
