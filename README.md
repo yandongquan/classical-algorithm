@@ -54,6 +54,9 @@
 
 ## 最大公约数和最小公倍数 ##
 
+题目：输入两个正整数m和n，求其最大公约数和最小公倍数。
+
+代码：[MaxCommonDivisorAndMinCommonMultiple.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/MaxCommonDivisorAndMinCommonMultiple.java)
 
 ## s=a+aa+aaa+aaaa+aa...a ##
 
