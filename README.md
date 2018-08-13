@@ -58,9 +58,13 @@
 
 代码：[MaxCommonDivisorAndMinCommonMultiple.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/MaxCommonDivisorAndMinCommonMultiple.java)
 
-## s=a+aa+aaa+aaaa+aa...a ##
 
 ## 完数 ##
+
+题目：一个数如果恰好等于它的因子之和，这个数就称为 "完数 "。例如6=1＋2＋3.编程 找出1000以内的所有完数。
+
+代码：[Complete.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/Complete.java)
+
 
 ## 9*9口诀 ##
 
