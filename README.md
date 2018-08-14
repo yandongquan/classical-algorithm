@@ -68,4 +68,10 @@
 
 ## 9*9口诀 ##
 
+题目：输出9*9口诀。
+
+程序分析：分行与列考虑，共9行9列，i控制行，j控制列。
+
+代码：[NineTimesNine.java](https://github.com/yandongquan/classical-algorithm/blob/master/ClassicalAlgorithm/src/main/java/com/javakz/NineTimesNine.java)
+
 ## 猴子吃桃问题 ##
